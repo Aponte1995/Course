@@ -1,2 +1,1 @@
-# Course
-Repositorio de prueba
+proyecto de como clonar un repositorio
